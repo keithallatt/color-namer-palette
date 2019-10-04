@@ -1,0 +1,3 @@
+# don't post class files, only *.java
+/*.class
+
